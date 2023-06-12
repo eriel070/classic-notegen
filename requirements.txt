@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+gdown >= 4.4.0
+librosa
+matplotlib
+tensorboard
+ipython >= 7.0
+ipykernel
+ipywidgets
+ipynb
+tqdm
+librosa
+numpy
+seaborn
+torchsummary

@@ -1,0 +1,12 @@
+1. Download musicnet directory from https://www.kaggle.com/datasets/imsparsh/musicnet-dataset
+
+2. Upload 4 folders--test_data, test_labels, train_data, train_labels--in data/raw/
+
+
+(Destinations)
+
+data/ - songs_metadata
+
+data/mini - 10,000 note_samples, labels, and 50 source songs
+
+data/large - 500,000 note_samples, labels

@@ -1,8 +1,9 @@
-# classic-notegen
-Note representation in a classical approach
+# Note Representation with a Classical Approach
 
 Developed through CS 449 Deep Learning at Northwestern University.
 
-Represent and generate novel notes in the mannerism of monochannel classical music. Employ traditional deep learning structures of convolution, quantization, and transposed convolution.
+* classic-notegen represents and generates notes in the mannerism of monochannel classical music
 
-Classic-notegen novelly introduces Introspection in the learning objective, in addition to classical Reconstruction.
+* classic-notegen employs traditional deep learning processes of convolution, quantization, and transposed convolution
+
+* classic-notegen novelly introduces Introspection in the learning objective, a counterpart to classical Reconstruction
