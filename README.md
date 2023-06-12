@@ -1,4 +1,4 @@
-# Note Representation with a Classical Approach
+# Note Representation in a Classical Approach
 
 Developed through CS 449 Deep Learning at Northwestern University.
 
